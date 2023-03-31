@@ -4,7 +4,7 @@
 
 ### **Новый функционал**
 
-* Компонент **[Scorecard KPI 1](./scorecard-kpi-1.md)**
-* Компонент **[Scorecard KPI 2](./scorecard-kpi-2.md)**
-* Компонент **[Scorecard KPI 1. Отчеты](./scorecard-kpi-1-report.md)**
-* Компонент **[Scorecard KPI 2. Отчеты](./scorecard-kpi-2-report.md)**
+* Компонент **[Scorecard KPI 1](./docs/Loginom%20Scorecard%20Quality%20Kit.pdf)**
+* Компонент **[Scorecard KPI 2](./docs/Loginom%20Scorecard%20Quality%20Kit.pdf)**
+* Компонент **[Scorecard KPI 1. Отчеты](./docs/Loginom%20Scorecard%20Quality%20Kit.pdf)**
+* Компонент **[Scorecard KPI 2. Отчеты](./docs/Loginom%20Scorecard%20Quality%20Kit.pdf)**
